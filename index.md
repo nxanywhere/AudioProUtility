@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# AudioProUtility
+Music Production tools for windows 
 
-You can use the [editor on GitHub](https://github.com/nxanywhere/AudioProUtility/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Screenshot 2021-06-07 021710](https://user-images.githubusercontent.com/79404127/120937225-906a9e80-c736-11eb-9164-1f766bc27f81.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Audio Utility is a music management tool, which includes 
+- Loudness Meter Checker is a loudness measurement tool suitable for mastering, which I am currently using FFmpeg to process the volume 
+- Symlink helps to do it. Shortcut Folders connect from other drives to drive C, which is another way to save a lot of space 
+- Restart Audio service provides an added level of help to restart the sound driver or restart an audio engine for every driver when there is a problem 
+- Fixing VstPath helps manage files and folders plug-ins in multiple addresses. Not all of them are called. This is managed by creating a folder and moving the files into one place, and the Registry will finish resetting default VSTPlugins to one place. Rescan) //ref.Problems with Ableton and many other programs 
+- Spectrum Analyzer is an audio graphing assistant that processes graphs as image files (processed by FFMpeg) 
+- install plugins (.dll), plug-in wizards loaded into compressed files or plug-ins that are ready to use instantly 
+- Audio Converter, an assistant for converting audio files in an emergency, or converting data files
+ 
+## Basic utility. 
+- Clear temporary files, delete temporary files from the drive 
+- Symlink folder shortcut 
+- Restart Explorer used when a hang occurs 
+- Clean Recycle bin Empty Trash 
+- Reset Daw Programs Reset all program settings available from FL Studio 11/12/20 - Cubase 10/11 (element) - Ableton Live 9/10/11
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nxanywhere/AudioProUtility/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### credit element in this project
+[FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
+[Youtube-DL](https://github.com/ytdl-org/youtube-dl)
