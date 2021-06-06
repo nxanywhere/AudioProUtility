@@ -18,11 +18,7 @@ Audio Utility is a music management tool, which includes
 - Symlink folder shortcut 
 - Restart Explorer used when a hang occurs 
 - Clean Recycle bin Empty Trash 
-- Reset Daw Programs Reset all program settings available from FL Studio 11/12/20 - Cubase 10/11 (element) - Ableton Live 9/10/11 
-##### Now incomplete, beta is still available.
-
-## Download
-Windows 64bit only [here](https://drive.google.com/file/d/1kE6CRc08UIr7pb4lH2I7Cx6vkNafDrtk/view?fbclid=IwAR0zkNo4vIP-xBKjK8q66vFIQnZmnmP7HHFq1wla5W0Q1KjSiyeLRQM-JXA)
+- Reset Daw Programs Reset all program settings available from FL Studio 11/12/20 - Cubase 10/11 (element) - Ableton Live 9/10/11
 
 ### credit element in this project
 [FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
