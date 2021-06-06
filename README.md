@@ -1,4 +1,4 @@
-# Audiouniversalutility
+# AudioUniversalUtility
 Universal Music Production tools for windows 
 
 ![Screenshot 2021-06-07 021710](https://user-images.githubusercontent.com/79404127/120937225-906a9e80-c736-11eb-9164-1f766bc27f81.png)
