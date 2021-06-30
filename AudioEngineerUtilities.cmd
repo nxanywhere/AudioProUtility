@@ -69,10 +69,10 @@ IF %M%==11 GOTO main
 
 :VSTFixer-Auto
 title Adding Registry keys....
-REG ADD "HKLM\Software\VST" /v "VSTPluginsPath" /t REG_SZ /d "C:\\Program Files\\Common Files\\Audio Plug-ins\\VST2"
-REG ADD "HKLM\Software\VST3" /v "VST3PluginsPath" /t REG_SZ /d "C:\\Program Files\\Common Files\\Audio Plug-ins\\VST3"
-REG ADD "HKLM\Software\WOW6432Node\VST" /v "VSTPluginsPath" /t REG_SZ /d "C:\\Program Files (x86)\\Common Files\\Audio Plug-ins\\VST2"
-REG ADD "HKLM\Software\WOW6432Node\VST3" /v "VSTPluginsPath" /t REG_SZ /d "C:\\Program Files (x86)\\Common Files\\Audio Plug-ins\\VST3"
+REG ADD "HKLM\Software\VST" /v "VSTPluginsPath" /t REG_SZ /d "C:\Program Files\Common Files\Audio Plug-ins\VST2"
+REG ADD "HKLM\Software\VST3" /v "VST3PluginsPath" /t REG_SZ /d "C:\Program Files\Common Files\Audio Plug-ins\VST3"
+REG ADD "HKLM\Software\WOW6432Node\VST" /v "VSTPluginsPath" /t REG_SZ /d "C:\Program Files (x86)\Common Files\Audio Plug-ins\VST2"
+REG ADD "HKLM\Software\WOW6432Node\VST3" /v "VSTPluginsPath" /t REG_SZ /d "C:\Program Files (x86)\Common Files\Audio Plug-ins\VST3"
 
 mkdir "C:\Program Files\Common Files\Audio Plug-ins\VST2"
 mkdir "C:\Program Files\Common Files\Audio Plug-ins\VST3"
